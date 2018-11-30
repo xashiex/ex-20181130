@@ -4,12 +4,14 @@
 
 - Timer
 
-// timer/
-
+      /timer
 - Ajax
 
+      /ajax
 
 - Multiples of 3 and 5
+
+      /sumOf3and5
 
       function sumOf3and5(target) {
         const t = target - 1;
